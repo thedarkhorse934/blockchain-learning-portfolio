@@ -12,9 +12,11 @@ Each project focuses on a specific concept (like storage, payable functions, or 
 
 | # | Project | Description | Key Concepts |
 |---|----------|--------------|---------------|
-| 1 | [FamilyEthSaving](./FamilyEthSaving) | Shared family savings pool with deposit and withdrawal functions | Payable functions, mappings, `msg.sender` |
-| 2 | [SimpleStorage](./SimpleStorage) | Basic contract for storing and retrieving data | State variables, setters/getters | (to be added)
-| 3 | [PiggyBank](./PiggyBank) | Personal savings smart contract with owner-only withdrawal | Ownership, payable deposits, events | (to be added)
+| 1 | [FamilyEthSaving] | Shared family savings pool with deposit and withdrawal functions | Payable functions, mappings, `msg.sender` |
+| 2 | [SimpleStorage] | Basic contract for storing and retrieving data | State variables, setters/getters | (to be added)
+| 3 | [PiggyBank] | Personal savings smart contract with owner-only withdrawal | Ownership, payable deposits, events | (to be added)
+| 4 |[SimplePoll]| A contract allowing users to cast a vote for predefined choices and view poll results. |Public getters, preventing double votes, reading/writing state, logic flow in smart contracts, conditionals & control flow|
+
 
 ---
 
