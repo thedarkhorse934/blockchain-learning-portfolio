@@ -1,15 +1,11 @@
-# MyERC20 Token
+# My ERC-20 Token Project
 
-This is a simple ERC-20 token written in Solidity.  
-It was built as part of my learning process.
+This repository contains two implementations of an ERC-20 token written in Solidity:
 
-## Features
-- 1,000,000 total supply
-- Standard transfer / approve / transferFrom
-- No OpenZeppelin dependencies (learning purpose)
+1. **A minimal, hand-written ERC-20 token**  
+   – built from scratch for learning purposes  
+   – demonstrates how balances, transfers, allowances, and events work under the hood  
 
-## Next steps
-- Deploy to Sepolia testnet
-- Add mint/burn functions
-- Add OpenZeppelin version
-- Add tests with Hardhat
+2. **A production-grade ERC-20 using OpenZeppelin**  
+   – follows industry-standard patterns  
+   – safe, audited, and recommended for real deployments  
