@@ -1,4 +1,4 @@
-# ERC-20 Token Contracts
+# 🪙 ERC-20 Token Contracts
 
 This repository contains two ERC-20 token implementations written in Solidity:
 
