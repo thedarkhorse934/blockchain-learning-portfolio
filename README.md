@@ -16,6 +16,7 @@ Each project focuses on a specific concept (like storage, payable functions, or 
 | 2 | [SimpleStorage] | Basic contract for storing and retrieving data | State variables, setters/getters |
 | 3 | [TinyValut] | A simple ETH vault smart contract that lets users deposit and withdraw their own funds | Payable functions,mappings, event logging, withdrawal pattern, require statements, basic vault architecture, view functions |
 | 4 |[SimplePoll]| A contract allowing users to cast a vote for predefined choices and view poll results. |Public getters, preventing double votes, reading/writing state, logic flow in smart contracts, conditionals & control flow|
+| 4 |[ERC-20]| Created two ERC-20 tokens: one fully written from scratch and one using OpenZeppelin’s standard implementation |Token supply management, balances, allowances, events, transfers, and secure smart-contract design|
 
 ---
 
