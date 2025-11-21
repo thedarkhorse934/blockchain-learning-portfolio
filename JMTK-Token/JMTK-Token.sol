@@ -14,7 +14,7 @@ contract MyJMTKToken is ERC20, ERC20Burnable, Ownable {
 
     uint256 public constant MAX_SUPPLY = 2_000_000 * 10 ** 18; // Maximum total tokens allowed
 
-    constructor() ERC20("MyToken", "JMTK") Ownable(msg.sender) {
+    constructor() ERC20("JMToken", "JMTK") Ownable(msg.sender) {
         // Mint initial supply to deployer
         _mint(msg.sender, 1_000_000 * 10 ** decimals());
     }
