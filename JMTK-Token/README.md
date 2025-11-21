@@ -1,19 +1,19 @@
-# JMTK-Token — Advanced ERC-20 Token Project
+# JMTK-Token 🚀 — Advanced ERC-20 Token Project
 
 This project contains a professional ERC-20 token built with OpenZeppelin contracts, designed as a follow-on from the **MyOZToken** learning project.
 
 ---
 
-## Overview
+## Overview 📝
 
 **JMTK-Token** is an ERC-20 token with the following features:
 
-- Fully compatible with OpenZeppelin ERC-20 standards.
-- Initial supply minted to the deployer at deployment.
-- Owner-only minting: the deployer can mint additional tokens.
-- Burnable by any token holder.
-- Clean, professional header with SPDX license and metadata.
-- Designed to be easily extended for deployment to testnets or mainnet.
+- ✅ Fully compatible with OpenZeppelin ERC-20 standards  
+- 👑 Initial supply minted to the deployer at deployment  
+- 🛠️ Owner-only minting: the deployer can mint additional tokens  
+- 🔥 Burnable by any token holder  
+- 📄 Clean, professional header with SPDX license and metadata  
+- 💻 Designed for easy extension to testnets or mainnet deployment  
 
 This project demonstrates a clean, production-ready approach for ERC-20 tokens while remaining simple and educational.
 
@@ -47,9 +47,9 @@ This project demonstrates a clean, production-ready approach for ERC-20 tokens w
 
 ## Author & Repository
 
-- **Author:** Your Name  
-- **Portfolio:** [https://yourportfolio.com](https://yourportfolio.com)  
-- **Repository:** [https://github.com/yourusername/blockchain-learning](https://github.com/yourusername/blockchain-learning)
+- **Author:** thedarkhorse934
+- **Portfolio:** [(https://github.com/thedarkhorse934)]
+- **Repository:** [https://github.com/thedarkhorse934/blockchain-learning-portfolio/tree/main]
 
 ---
 
