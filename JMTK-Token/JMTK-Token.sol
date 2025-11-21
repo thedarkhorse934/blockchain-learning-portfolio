@@ -10,7 +10,7 @@ import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 /// @notice Simple ERC20 using OpenZeppelin with burn + owner mint
-contract MyOZToken is ERC20, ERC20Burnable, Ownable {
+contract MyJMTKToken is ERC20, ERC20Burnable, Ownable {
 
     uint256 public constant MAX_SUPPLY = 2_000_000 * 10 ** 18; // Maximum total tokens allowed
 
