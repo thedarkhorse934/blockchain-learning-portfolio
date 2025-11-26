@@ -1,4 +1,5 @@
-''' solidity
+```solidity
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -46,4 +47,5 @@ contract JMTK is ERC20, ERC20Burnable, ERC20Snapshot, ERC20Permit, AccessControl
     }
 }
 
-'''
+```
+
