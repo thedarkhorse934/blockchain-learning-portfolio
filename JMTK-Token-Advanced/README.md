@@ -2,6 +2,10 @@
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4.9.5-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Token](https://img.shields.io/badge/Token-JMTK-purple)
+![Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+![Ethereum](https://img.shields.io/badge/Network-EVM-3C3C3D?logo=ethereum)
+![GitHub Repo stars](https://img.shields.io/github/stars/thedarkhorse934/blockchain-learning-portfolio?style=social)
+![Audit](https://img.shields.io/badge/Security-Not%20Audited-orange)
 
 
 # 💰 JMTK Token — Advanced ERC-20 Token
