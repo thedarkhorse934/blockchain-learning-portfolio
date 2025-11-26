@@ -1,4 +1,11 @@
-# 💰 JMTK Token — Advanced ERC-20 Token  
+![Solidity](https://img.shields.io/badge/Solidity-0.8.20-blue)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4.9.5-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Token](https://img.shields.io/badge/Token-JMTK-purple)
+
+
+# 💰 JMTK Token — Advanced ERC-20 Token
+
 
 **Mintable • Burnable • Snapshot • Permit • Role-Based Access Control**
 
