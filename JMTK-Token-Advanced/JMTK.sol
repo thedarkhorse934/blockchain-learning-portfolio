@@ -1,8 +1,7 @@
-'''
+''' solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-/// Force OpenZeppelin v4.9.5 via GitHub tag import paths
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.9.5/contracts/token/ERC20/extensions/ERC20Burnable.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.9.5/contracts/token/ERC20/extensions/ERC20Snapshot.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v4.9.5/contracts/token/ERC20/extensions/draft-ERC20Permit.sol";
